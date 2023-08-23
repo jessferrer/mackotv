@@ -1,0 +1,263 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.imgur.com/G1A5f9n.png" group-title="PBA & NBA | Games | Channels | LIVE specials", ESPN
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/23402.ts
+
+#EXTINF:-1 tvg-id="EGGNetwork.ph" tvg-logo="https://i.imgur.com/kO4h0tM.png" group-title="PBA & NBA | Games | Channels | LIVE specials", EGG NETWORK
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/290.ts
+
+#EXTINF:-1 tvg-id="FightChannel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Fight-channel.png/revision/latest?cb=20210613123244" group-title="PBA & NBA | Games | Channels | LIVE specials", FIGHT CHANNEL
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/23480.ts
+
+#EXTINF:-1 tvg-id="GolfPhilippines.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Golf_Channel_on_NBC.png/revision/latest?cb=20120831235340" group-title="PBA & NBA | Games | Channels | LIVE specials", GOLF PH
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/23401.ts
+
+#EXTINF:-1 tvg-id="NBA.TV.us" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="PBA & NBA | Games | Channels | LIVE specials", NBA TV
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/280.ts
+
+#EXTINF:-1 tvg-id="TECHSTORM" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" group-title="PBA & NBA | Games | Channels | LIVE specials", TECHSTORM
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/23456.ts
+
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://www.linkpicture.com/q/wwe.png" group-title="PBA & NBA | Games | Channels | LIVE specials", WWE TV
+http://tvshow.iona.ml/live/phciptv/yclcRUN3bo/291.ts
+
+#EXTINF:-1 tvg-id="A2Z.Channel.11.ph" tvg-logo="https://i.imgur.com/vd0vb52.png" group-title="PH & CABLE CHANNELS", A2Z
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926206&extension=ts&play_token=hcYtcHyH4h
+
+#EXTINF:-1 tvg-id="ABC.as" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="PH & CABLE CHANNELS", ABC AUSTRALIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731868&extension=ts&play_token=6093Ue7LLD
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="PH & CABLE CHANNELS", AL JAZEERA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/qXXrmN8.png" group-title="PH & CABLE CHANNELS", ALLTV
+https://m3u-editor.com/serve/7144b8e0-28d6-11ed-8799-f521e19c6545/638098462
+
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="PH & CABLE CHANNELS", ANC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926212&extension=ts&play_token=zLffet8yP6
+
+#EXTINF:-1 tvg-id="AnimalPlanet.my" tvg-logo="https://i.imgur.com/KSrFJKN.png" group-title="PH & CABLE CHANNELS", ANIMAL PLANET 
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:ae:26:c8&stream=731843&extension=ts&play_token=k15sG5v1n4
+
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/Ap31GMR.png" group-title="PH & CABLE CHANNELS", ANIMAX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731865&extension=ts&play_token=UaCuPc7GD8
+
+#EXTINF:-1 tvg-id="ANIPLUS.SD.sg" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="PH & CABLE CHANNELS", ANIPLUS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926202&extension=ts&play_token=IG3e7YhnNF
+
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Pwgfbch.png" group-title="PH & CABLE CHANNELS", ARIRANG TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926203&extension=ts&play_token=ZEQpSZpu8q
+
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-logo="https://i.imgur.com/vUM6ifI.png" group-title="PH & CABLE CHANNELS", AXN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731863&extension=ts&play_token=5Lbjpk7XGt
+
+#EXTINF:-1 tvg-id="BBCEarthAsia.ph" tvg-logo="https://i.imgur.com/YfndqZA.png" group-title="PH & CABLE CHANNELS", BBC EARTH
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926201&extension=ts&play_token=L1R9iRpND3
+
+#EXTINF:-1 tvg-id="BeIN.Sports.HD.ph" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="PH & CABLE CHANNELS", BEIN SPORTS HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926197&extension=ts&play_token=nWjVQvgHJR
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="PH & CABLE CHANNELS", BLOOMBERG TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=941692&extension=ts&play_token=gvXuGaaxDh
+
+#EXTINF:-1 tvg-id="BoomerangAsia.my" tvg-logo="https://i.imgur.com/H1Ajy3N.png" group-title="PH & CABLE CHANNELS", BOOMERANG
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926199&extension=ts&play_token=v7m6aF7F7j
+
+#EXTINF:-1 tvg-id="BUKO.ph" tvg-logo="https://i.imgur.com/rqjaa88.png" group-title="PH & CABLE CHANNELS", BUKO Channel
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926198&extension=ts&play_token=hfZzVMzdXu
+
+#EXTINF:-1 tvg-id="CARTOON.NETWORK.HD.ph" tvg-logo="https://i.imgur.com/0UwK50X.png" group-title="PH & CABLE CHANNELS", CARTOON NETWORK HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=330932&extension=ts&play_token=QDQEM5y6Ql
+
+#EXTINF:-1 tvg-id="CartoonNetworkPhilippines.ph" tvg-logo="https://i.imgur.com/BW7GtXU.png" group-title="PH & CABLE CHANNELS", CARTOON NETWORK SD
+http://103.73.58.238:8443/live/wNn2cNjJYrtPN3OwStfE1Q/1668687342/376.m3u8
+
+#EXTINF:-1 tvg-id="Celestial.Movies.Pinoy.ph" tvg-logo="https://i.imgur.com/EUlYIWv.png" group-title="PH & CABLE CHANNELS", CELESTIAL MOVIES PINOY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731860&extension=ts&play_token=KpHT75BY0H
+
+#EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-logo="https://i.imgur.com/IvzLdLO.png" group-title="PH & CABLE CHANNELS", CINEMA ONE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=223079&extension=ts&play_token=OC8lFVQg36
+
+#EXTINF:-1 tvg-id="CineMo!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="PH & CABLE CHANNELS", CINEMO!
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=223080&extension=ts&play_token=VWpyaWeiEj
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/800px-Cinemax_2016.svg.png" group-title="PH & CABLE CHANNELS", CINEMAX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=571214&extension=ts&play_token=aGLnLupr9i
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/0x8u11K.jpg" group-title="PH & CABLE CHANNELS", CINEMUNDO PINOY
+https://streaming-lunaott.akamaized.net/cinemundopinoy_ottera_4222432781/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN.PHILIPPINES.ph" tvg-logo="https://i.imgur.com/RyRgz3L.png" group-title="PH & CABLE CHANNELS", CNN PHILIPPINES
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="PH & CABLE CHANNELS", DREAMWORKS CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926185&extension=ts&play_token=PcGc5Y1ho8
+
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="PH & CABLE CHANNELS", DISNEY XD
+http://ys-users.com:8080/live/promo5/5thpromotion/367064.ts
+
+#EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/8kr6Rmn.png" group-title="PH & CABLE CHANNELS", DZMM TELERADYO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926211&extension=ts&play_token=OfVvlrXFpl
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/SqOdnx2.png" group-title="PH & CABLE CHANNELS", DZBB SUPER RADYO
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="PH & CABLE CHANNELS", DZRH TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731845&extension=ts&play_token=YOhpqIzk7t
+
+#EXTINF:-1 tvg-id="DiscoveryAsia.ph" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="PH & CABLE CHANNELS", DISCOVERY ASIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731847&extension=ts&play_token=YiUlz2JLNZ
+
+#EXTINF:-1 tvg-id="FightSports.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="PH & CABLE CHANNELS", FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-id="GMA.7.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="PH & CABLE CHANNELS", GMA TV
+http://103.73.58.238:8443/live/wNn2cNjJYrtPN3OwStfE1Q/1668687342/431.m3u8
+
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/kePZSFb.png" group-title="PH & CABLE CHANNELS", GTV
+http://103.73.58.238:8443/live/wNn2cNjJYrtPN3OwStfE1Q/1668687342/351.m3u8
+
+#EXTINF:-1 tvg-id="HBO.HD.my" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="PH & CABLE CHANNELS", HBO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=571204&extension=ts&play_token=5VCmaUp0iy
+
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="PH & CABLE CHANNELS", HITS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926174&extension=ts&play_token=2Uu7Cj6orY
+
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.my" tvg-logo="https://i.imgur.com/YWr1VXm.png" group-title="PH & CABLE CHANNELS", HITS MOVIES
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731833&extension=ts&play_token=3HklNnKXBr
+
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/LaqSPsM.png" group-title="PH & CABLE CHANNELS", IBC 13
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731830&extension=ts&play_token=hiQEvNHSjN
+
+#EXTINF:-1 tvg-id="JEEPNEY.TV.ph" tvg-logo="https://i.imgur.com/3yzbJE5.png" group-title="PH & CABLE CHANNELS", JEEPNEY TV
+http://103.73.58.238:8443/live/wNn2cNjJYrtPN3OwStfE1Q/1668687342/440.m3u8
+
+#EXTINF:-1 tvg-id="K-PlusAsia.my" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="PH & CABLE CHANNELS", K+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926172&extension=ts&play_token=wR0670ppGJ
+
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-logo="https://i.imgur.com/WKJOdxJ.png" group-title="PH & CABLE CHANNELS", KAPAMILYA CHANNEL HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731825&extension=ts&play_token=1OylTBy8v5
+
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="PH & CABLE CHANNELS", KAPAMILYA CHANNEL SD
+https://m3u-editor.com/serve/rodvincentiptvplaylistnov15/687933067
+
+#EXTINF:-1 tvg-id="KBSWorld.hk" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="PH & CABLE CHANNELS", KBS WORLD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731824&extension=ts&play_token=pJ6mLfBUDg
+
+#EXTINF:-1 tvg-id="KIX.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="PH & CABLE CHANNELS", KIX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926171&extension=ts&play_token=oqVqtZs1S9
+
+#EXTINF:-1 tvg-id="KNOWLEDGE.CHANNEL.ph" tvg-logo="https://i.imgur.com/9ROZkXn.png" group-title="PH & CABLE CHANNELS", KNOWLEDGE CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731823&extension=ts&play_token=Dd6iODUYFa
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="PH & CABLE CHANNELS", MOONBUG KIDS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926168&extension=ts&play_token=ZQUWXcx1bu
+
+#EXTINF:-1 tvg-id="MTVAsia.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="PH & CABLE CHANNELS", MTV ASIA
+http://portal.geniptv.com:8080/live/tolgax1x/JNKsdsadsa1a/18573.ts
+
+#EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="PH & CABLE CHANNELS", MYX PH
+http://103.73.58.238:8443/live/wNn2cNjJYrtPN3OwStfE1Q/1668687342/455.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonAsia.ph" tvg-logo="https://i.imgur.com/2h7jwVu.png" group-title="PH & CABLE CHANNELS", NICKELODEON
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731817&extension=ts&play_token=hOCtbZVDKd
+
+#EXTINF:-1 tvg-id="NickJrAsia.ph" tvg-logo="https://i.imgur.com/qXy3RMn.png" group-title="PH & CABLE CHANNELS", NICK JR.
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926163&extension=ts&play_token=5J7IebxjbX
+
+#EXTINF:-1 tvg-id="NBATVInternational.us" tvg-logo="https://i.imgur.com/u7RGSDF.png" group-title="PH & CABLE CHANNELS", NBA TV PHILIPPINES
+https://m3u-editor.com/serve/rodvincentiptvplaylistnov15/687933041
+
+#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="PH & CABLE CHANNELS", NET 25
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731818&extension=ts
+
+#EXTINF:-1 tvg-id="NationalGeographicAsia.ph" tvg-logo="https://i.imgur.com/T9xDiWf.png" group-title="PH & CABLE CHANNELS", NAT GEO HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926167&extension=ts&play_token=s85dcpcgjk
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="PH & CABLE CHANNELS", ONE PH
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731816&extension=ts&play_token=Gnx3eR5zL4
+
+#EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/FJfuQDi.png" group-title="PH & CABLE CHANNELS", ONE SPORTS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731814&extension=ts&play_token=gIaKpLsB24
+
+#EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="PH & CABLE CHANNELS", ONE SPORTS+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926161&extension=ts&play_token=jIzWYz4pMf
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/512px-OneNewsPH_logo.svg.png" group-title="PH & CABLE CHANNELS", ONE NEWS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926160&extension=ts&play_token=boiRTM5eMw
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="PH & CABLE CHANNELS", PBA RUSH
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=914598&extension=ts&play_token=FeUhxYOnWO
+
+#EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="PH & CABLE CHANNELS", PBO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731812&extension=ts&play_token=GNjBhH3ypL
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/PIE_Channel.png/revision/latest/scale-to-width-down/300?cb=20220821063929" group-title="PH & CABLE CHANNELS", PIE TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A/live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="PH & CABLE CHANNELS", PINOY XTREME
+https://m3u-editor.com/serve/rodvincentiptvplaylistnov15/687933044
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS.ph" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="PH & CABLE CHANNELS", PREMIER SPORTS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926155&extension=ts&play_token=6AmBe6LME
+
+#EXTINF:-1 tvg-id="ParamountNetworkAsia.ph" tvg-logo="https://i.imgur.com/mrGjWTe.png" group-title="PH & CABLE CHANNELS", PARAMOUNT NETWORK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926158&extension=ts&play_token=d1GaXSkmkI
+
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="PH & CABLE CHANNELS", PTV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731809&extension=ts&play_token=bxur7YUrwt
+
+#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://i.imgur.com/fKNAva5.png" group-title="PH & CABLE CHANNELS", ROCK ENTERTAINMENT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926153&extension=ts&play_token=JIw54Hmb7S
+
+#EXTINF:-1 tvg-id="RockExtreme.my" tvg-logo="https://i.imgur.com/ieudr87.png" group-title="PH & CABLE CHANNELS", ROCK EXTREME
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926194&extension=ts&play_token=wPJbOLYguP
+
+#EXTINF:-1 tvg-id="Sari.Sari.Channel.ph" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="PH & CABLE CHANNELS", SARI SARI
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731807&extension=ts&play_token=kjEhnvMB1h
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/kTLLxuV.png" group-title="PH & CABLE CHANNELS", SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/LrU01cL.png" group-title="PH & CABLE CHANNELS", SOLARFLIX
+https://m3u-editor.com/serve/rodvincentiptvplaylistnov15/687933075
+
+#EXTINF:-1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="PH & CABLE CHANNELS", TV5
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926150&extension=ts&play_token=g6MRen675z
+
+#EXTINF:-1 tvg-id="TAPTV.ph" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="PH & CABLE CHANNELS", TAP TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926151&extension=ts&play_token=QbdKQyPqq5
+
+#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="PH & CABLE CHANNELS", TAP MOVIES
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926152&extension=ts&play_token=Ji6jfFQhJc
+
+#EXTINF:-1 tvg-id="TapActionFlixHD" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="PH & CABLE CHANNELS", TAP ACTION FLIX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926149&extension=ts&play_token=BqrzHQMh8b
+
+#EXTINF:-1 tvg-id="TAPSPORTS.ph" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="PH & CABLE CHANNELS", TAP SPORTS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926147&extension=ts&play_token=Nbu3nKjZYa
+
+#EXTINF:-1 tvg-id="TelenovelaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Telenovela_Channel.png" group-title="PH & CABLE CHANNELS", TELENOVELA CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731804&extension=ts&play_token=rfJm9KvvQC
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="PH & CABLE CHANNELS", THRILL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731796&extension=ts&play_token=md2QURGkCN
+
+#EXTINF:-1 tvg-id="Tagalized.Movie.Channel.ph" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="PH & CABLE CHANNELS", TMC
+https://m3u-editor.com/serve/rodvincentiptvplaylistnov15/687933024
+
+#EXTINF:-1 tvg-id="TLCAsia.ph" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="PH & CABLE CHANNELS", TLC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731795&extension=ts&play_token=q0ZLjoP4Jm
+
+#EXTINF:-1 tvg-id="TVNAsia.hk" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="PH & CABLE CHANNELS", TVN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=571260&extension=ts&play_token=ppXGonRX03
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="PH & CABLE CHANNELS", UAAP VARSITY CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926145&extension=ts&play_token=zreCTvWufi
+
+#EXTINF:-1 tvg-id="Viva.Channel.ph" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-title="PH & CABLE CHANNELS", VIVA CINEMA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=731787&extension=ts&play_token=zAkGfcqghV
+
+#EXTINF:-1 tvg-id="WarnerTVPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="PH & CABLE CHANNELS", WARNER TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:00:1C:3F&stream=926138&extension=ts&play_token=aNgODLBKuT
+
